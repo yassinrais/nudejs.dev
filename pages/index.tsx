@@ -7,6 +7,7 @@ const IndexPage: NextPage = () => {
     <main>
       <Head>
         <title>Nude.js</title>
+        <script defer data-domain="nudejs.dev" src="https://plausible.io/js/plausible.js"></script>
       </Head>
 
       <h1 className="hidden">Nudejs.dev</h1>
