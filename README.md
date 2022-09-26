@@ -1,4 +1,4 @@
-# Static export example
+# This is just a nodejs.dev prank pages !
 
 This example show how to export to static HTML files your Next.js application fetching data from an API to generate a dynamic list of pages.
 
