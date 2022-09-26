@@ -12,7 +12,7 @@ const IndexPage: NextPage = () => {
 
       <h1 className="hidden">Nudejs.dev</h1>
       <div className="container">
-        <a className="prank shake" href="https://github.com/yassinrais/">
+        <a className="prank shake" href="https://github.com/yassinrais/nudejs.dev/">
           <img className="prank" src="https://avatars.githubusercontent.com/u/25354731?v=4" alt="NudeJs Logo" />
           <h1 className="gelatine">😈 NoooNooo !</h1>
         </a>
